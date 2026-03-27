@@ -1,0 +1,8 @@
+{
+    "clock_in": "%s is IN dienst gegaan als %s",
+    "clock_out": "%s is UIT dienst gegaan als %s",
+    "player": "Speler",
+    "job": "Baan",
+    "timestamp": "Tijd",
+    "total_time": "Sessie"
+}

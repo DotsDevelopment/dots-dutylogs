@@ -1,0 +1,8 @@
+{
+    "clock_in": "%s clocked IN as %s",
+    "clock_out": "%s clocked OUT as %s",
+    "player": "Player",
+    "job": "Job",
+    "timestamp": "Time",
+    "total_time": "Session"
+}
