@@ -4,7 +4,7 @@ lua54 'yes'
 
 author 'DotsDevelopment'
 description 'Standalone duty logging system'
-version '1.0.0'
+version '1.0.1'
 
 ox_libs {
     'locale'
